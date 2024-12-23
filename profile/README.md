@@ -1,7 +1,11 @@
 # 🌟 WooRibound
 
 ## 소개영상 클릭!
-[![Video Label](http://img.youtube.com/vi/dAh9Vz9pNlU/0.jpg)](https://youtu.be/dAh9Vz9pNlU)
+<div align="center">
+  <a href="https://youtu.be/dAh9Vz9pNlU" target="_blank">
+    <img src="http://img.youtube.com/vi/dAh9Vz9pNlU/0.jpg" alt="Video Label" style="max-width:100%; height:auto;">
+  </a>
+</div>
 
 ## 🏁 주제선정 배경
 
