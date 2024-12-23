@@ -1,9 +1,13 @@
 # 🌟 WooRibound
 
 ## 서비스 소개 영상
-<a href="https://youtu.be/dAh9Vz9pNlU" target="_blank">
-  <img src="https://img.youtube.com/vi/dAh9Vz9pNlU/0.jpg" alt="서비스 소개 영상" style="width: 100%; height: auto;">
-</a>
+<div style="text-align: center;">
+  <a href="https://youtu.be/dAh9Vz9pNlU" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5a65d0f3-d51b-40eb-8087-b75eabb0711b" 
+         alt="서비스 소개 영상" 
+         style="width: 100%; max-width: 600px; height: auto;">
+  </a>
+</div>
 
 <br/>
 
