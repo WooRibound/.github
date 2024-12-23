@@ -1,5 +1,7 @@
 # 🌟 WooRibound
 
+[![Video Label](http://img.youtube.com/vi/dAh9Vz9pNlU/0.jpg)](https://youtu.be/dAh9Vz9pNlU)
+
 ## 🏁 주제선정 배경
 
 ### 📈 5070 세대의 증가와 노동시장 변화
@@ -70,3 +72,5 @@
 
 
 """
+
+
