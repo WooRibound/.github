@@ -1,12 +1,13 @@
 # 🌟 WooRibound
 
 ## 서비스 소개 영상
-<div align="center">
+<div style="text-align: center;">
   <a href="https://youtu.be/dAh9Vz9pNlU" target="_blank">
-    <img src="http://img.youtube.com/vi/dAh9Vz9pNlU/0.jpg" alt="Video Label" style="max-width:100%; height:auto;">
+    <img src="http://img.youtube.com/vi/dAh9Vz9pNlU/0.jpg" 
+         alt="서비스 소개 영상" 
+         style="width: 100%; max-width: 100%; height: auto; border: none;">
   </a>
 </div>
-
 <br/>
 
 ## 🏁 주제선정 배경
