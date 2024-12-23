@@ -2,7 +2,7 @@
 
 ## 🏁 주제선정 배경
 
-### 📈 1. 5070 세대의 증가와 노동시장 변화
+### 📈 5070 세대의 증가와 노동시장 변화
 한국은 세계에서 가장 빠르게 고령화가 진행되고 있는 국가로, 5070 세대 비중이 약 31%에 달하며 그 수가 꾸준히 증가하고 있습니다.  
 이로 인해 노동 시장과 사회에 새로운 도전 과제가 나타났습니다.
 
@@ -49,12 +49,6 @@
 | **데이터베이스🗄**    | ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) <br> ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white) <br> ![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)  |
 | **인프라☁️**          | ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) <br> ![](https://img.shields.io/badge/On--Premise-000000?style=flat-square&logo=&logoColor=white)  |
 | **모니터링 도구📊**   | ![](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white) <br> ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white) <br> ![](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat-square&logo=Amazon-AWS&logoColor=white)  |
-
-- **프론트엔드**: Vue.js 🌐
-- **백엔드**: Spring Boot, Java, JPA 🛠
-- **데이터베이스**: MySQL, Elasticsearch, Redis 🗄
-- **인프라**: AWS, On-Premise 혼합 ☁️
-- **모니터링 도구**: Kibana, Grafana, AWS CloudWatch 📊
 
 ---
 
