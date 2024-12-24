@@ -1,6 +1,7 @@
-# 🌟 WooRibound
+# WooRibound
 
-## 서비스 소개 영상
+## 📼 서비스 소개 영상
+📢 각 타겟 사용자의 여정을 바탕으로 구성된 가상의 시나리오를 통해, 주요 기능을 영상으로 소개합니다. 아래 영상을 통해 확인해보세요!
 <div style="text-align: center;">
   <a href="https://youtu.be/dAh9Vz9pNlU" target="_blank">
     <img src="https://github.com/user-attachments/assets/5a65d0f3-d51b-40eb-8087-b75eabb0711b" 
