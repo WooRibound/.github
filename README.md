@@ -74,6 +74,35 @@
 
 <br/>
 
+## 📺 프로젝트 화면
+
+### 1. 개인회원
+
+| 메인 화면 | 일자리 찾기 | 일경험 공유 |
+|-----------|------------|------------|
+| <img src="https://github.com/user-attachments/assets/936ac07b-dc55-4d96-aa51-a3d3691ede9a" width="300"/> | <img src="https://github.com/user-attachments/assets/34facb7b-2118-4af2-8ccd-1932d968a39d" width="300"/> | <img src="https://github.com/user-attachments/assets/28098188-d530-42d6-84ef-a1e5561b77c8" width="300"/> |
+
+| 이력서 등록 | 우바 고도 | 내가 쓴 글 |
+|------------|------------|------------|
+| <img src="https://github.com/user-attachments/assets/8257c073-0a9d-4241-8feb-56eadfd9f744" width="300"/> | <img src="https://github.com/user-attachments/assets/357ae33a-6e62-47d9-859f-dd3db60d64d3" width="300"/> | <img src="https://github.com/user-attachments/assets/81228e82-bbd7-433d-a9e5-40c6c4fecd7c" width="300"/> |
+
+### 2. 기업회원
+
+| 공고 관리 | 직원 관리 | 프리미엄 패키지 |
+|-----------|------------|------------|
+| <img src="https://github.com/user-attachments/assets/13b4bf6a-2a0a-4d00-8c72-278065e06275" width="300"/> | <img src="https://github.com/user-attachments/assets/c0e1fc41-4883-47a8-b0e1-6856b04fc596" width="300"/> | <img src="https://github.com/user-attachments/assets/5ead338c-1d3b-4517-ac13-e113bc8cddef" width="300"/> |
+
+| 기업 메뉴 |
+|------------|
+| <img src="https://github.com/user-attachments/assets/6f152b6f-0703-4a30-afd1-f2b09d9dff50" width="300"/> |
+
+<br/>
+
+---
+
+<br/>
+
+
 ## 💻 개발 환경
 
 | 🛠 기술 스택              |                                                                                                                                                                                                                                                                                                                                                          |
