@@ -74,6 +74,35 @@
 
 <br/>
 
+## 📺 프로젝트 화면
+
+### 1. 개인회원
+
+| 메인 화면 | 일자리 찾기 | 일경험 공유 |
+|-----------|------------|------------|
+| <img src="https://github.com/user-attachments/assets/936ac07b-dc55-4d96-aa51-a3d3691ede9a" width="300"/> | <img src="https://github.com/user-attachments/assets/34facb7b-2118-4af2-8ccd-1932d968a39d" width="300"/> | <img src="https://github.com/user-attachments/assets/28098188-d530-42d6-84ef-a1e5561b77c8" width="300"/> |
+
+| 이력서 등록 | 우바 고도 | 내가 쓴 글 |
+|------------|------------|------------|
+| <img src="https://github.com/user-attachments/assets/8257c073-0a9d-4241-8feb-56eadfd9f744" width="300"/> | <img src="https://github.com/user-attachments/assets/357ae33a-6e62-47d9-859f-dd3db60d64d3" width="300"/> | <img src="https://github.com/user-attachments/assets/81228e82-bbd7-433d-a9e5-40c6c4fecd7c" width="300"/> |
+
+### 2. 기업회원
+
+| 공고 관리 | 직원 관리 | 프리미엄 패키지 |
+|-----------|------------|------------|
+| <img src="https://github.com/user-attachments/assets/13b4bf6a-2a0a-4d00-8c72-278065e06275" width="300"/> | <img src="https://github.com/user-attachments/assets/c0e1fc41-4883-47a8-b0e1-6856b04fc596" width="300"/> | <img src="https://github.com/user-attachments/assets/5ead338c-1d3b-4517-ac13-e113bc8cddef" width="300"/> |
+
+| 기업 메뉴 |
+|------------|
+| <img src="https://github.com/user-attachments/assets/6f152b6f-0703-4a30-afd1-f2b09d9dff50" width="300"/> |
+
+<br/>
+
+---
+
+<br/>
+
+
 ## 💻 개발 환경
 
 | 🛠 기술 스택              |                                                                                                                                                                                                                                                                                                                                                          |
@@ -129,7 +158,7 @@
 
 ## 🌐 다중 가용영역 (Multi-AZ) 구성
 
-AWS의 물리적 데이터 센터인 가용영역을 이중화하여 인프라를 구성했습니다. 이를 통해 하나의 데이터 센터에 장애가 발생하더라도 서비스가 정상적으로 운영될 수 있도록 했습니다.
+AWS의 물리적 데이터 센터를 활용하여 하나의 데이터 센터에 장애가 발생하더라도 서비스가 정상적으로 운영될 수 있도록 설계했습니다.
 
 ## 🖥️ 계층별 상세 설명
 
@@ -159,7 +188,7 @@ AWS의 물리적 데이터 센터인 가용영역을 이중화하여 인프라�
 ## 🔒 보안 체계
 
 - **AWS WAF**: DDOS, 악성 봇, XSS, SQL 인젝션 방어
-- **CSRF 방어**: express.js의 csurf를 활용, 요청마다 토큰을 검증하여 다른 도메인으로부터의 요청을 차단
+- **CSRF 방어**: 요청마다 토큰을 검증하여 다른 도메인으로부터의 요청을 차단
 - **보안 터널링**: **Cloudflare Tunneling**을 활용해 안전한 클라우드-온프레미스 통신을 구현
 
 <br/>
